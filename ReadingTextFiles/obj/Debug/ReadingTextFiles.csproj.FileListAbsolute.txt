@@ -1,0 +1,10 @@
+C:\Users\mohajer\source\repos\ReadingTextFiles\ReadingTextFiles\bin\Debug\ReadingTextFiles.exe.config
+C:\Users\mohajer\source\repos\ReadingTextFiles\ReadingTextFiles\bin\Debug\ReadingTextFiles.exe
+C:\Users\mohajer\source\repos\ReadingTextFiles\ReadingTextFiles\bin\Debug\ReadingTextFiles.pdb
+C:\Users\mohajer\source\repos\ReadingTextFiles\ReadingTextFiles\obj\Debug\ReadingTextFiles.csproj.AssemblyReference.cache
+C:\Users\mohajer\source\repos\ReadingTextFiles\ReadingTextFiles\obj\Debug\ReadingTextFiles.Form1.resources
+C:\Users\mohajer\source\repos\ReadingTextFiles\ReadingTextFiles\obj\Debug\ReadingTextFiles.Properties.Resources.resources
+C:\Users\mohajer\source\repos\ReadingTextFiles\ReadingTextFiles\obj\Debug\ReadingTextFiles.csproj.GenerateResource.cache
+C:\Users\mohajer\source\repos\ReadingTextFiles\ReadingTextFiles\obj\Debug\ReadingTextFiles.csproj.CoreCompileInputs.cache
+C:\Users\mohajer\source\repos\ReadingTextFiles\ReadingTextFiles\obj\Debug\ReadingTextFiles.exe
+C:\Users\mohajer\source\repos\ReadingTextFiles\ReadingTextFiles\obj\Debug\ReadingTextFiles.pdb
